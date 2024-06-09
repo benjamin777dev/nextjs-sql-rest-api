@@ -2,31 +2,6 @@
 
 _Note: this is my v2 boilerplate for React web apps. See also my [Firebase and React Hooks boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) and [REST + MongoDB boilerplate](https://github.com/tomsoderlund/nextjs-express-mongoose-crudify-boilerplate)._
 
-## Support this project
-
-Did you or your company find `nextjs-sql-rest-api-boilerplate` useful? Please consider giving a small donation, it helps me spend more time on open-source projects:
-
-[![Support Tom on Ko-Fi.com](https://www.tomsoderlund.com/ko-fi_tomsoderlund_50.png)](https://ko-fi.com/tomsoderlund)
-
-## Why is this awesome?
-
-This is a great starting point for a any project where you want **React + Redux** (with server-side rendering, powered by [Next.js](https://github.com/zeit/next.js)) as frontend and **Express/Postgres SQL** as a REST API backend.
-_Lightning fast, all JavaScript._
-
-* Simple REST API routes with [`sql-wizard`](https://github.com/tomsoderlund/sql-wizard).
-* Redux REST support with `redux-api` and `next-redux-wrapper`.
-* Flexible client-side routing with `next-routes` (see `server/routes.js`).
-* Flexible configuration with `config/config.js` and `.env` file.
-* Hot reloading with `nodemon`.
-* Testing with Jasmine.
-* Code formatting and linting with StandardJS.
-* JWT authentication for client-server communication (coming).
-
-## Demo
-
-See [**nextjs-sql-rest-api-boilerplate** running on Heroku here](https://nextjs-sql-rest-api.herokuapp.com/).
-
-![nextjs-sql-rest-api-boilerplate demo on Heroku](docs/demo.gif)
 
 ## How to use
 
